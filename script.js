@@ -1,3 +1,5 @@
+
+
 let tempo = 0;
 let intervalo;
 /*let tempo = 0;: Declara uma variável tempo e inicializa com o valor 0. Essa variável vai armazenar o tempo atual do cronômetro em segundos.
